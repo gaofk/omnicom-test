@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@line/bot-sdk": "^9.0.0",
+    "dotenv": "^17.2.3",
     "express": "^4.19.0"
   },
   "engines": {
